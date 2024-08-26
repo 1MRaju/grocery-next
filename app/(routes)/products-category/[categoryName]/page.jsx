@@ -2,7 +2,7 @@
 
 import GlobalApi from '@/app/_utils/GlobalApi';
 import React from 'react';
-import TopCategoryList from '@/app/_components/TopCategoryList';
+import TopCategoryList from '@/app/_components/CategoryList';
 import ProductList from '@/app/_components/ProductList';
 
 export async function generateStaticParams() {
